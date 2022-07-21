@@ -18,6 +18,6 @@ Google Disk:
 
 Youtube Playlist:
 https://www.youtube.com/watch?v=kRcbYLK3OnQ&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r
-#0969DA
-###### **sgiman @ 2022**
+
+**sgiman @ 2022**
  
