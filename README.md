@@ -14,10 +14,10 @@ C++ BASE LESSONS (examples - part1)
 
 ## CPP_BASE_PART1 (lessons 1..70)
 
-Youtube Playlist:
+Youtube Playlist (lessons 1..70):
 https://www.youtube.com/watch?v=kRcbYLK3OnQ&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r
 
-Google Disk:
+Google Disk (examples 1..70):
 https://www.youtube.com/watch?v=kRcbYLK3OnQ&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r
 
 
