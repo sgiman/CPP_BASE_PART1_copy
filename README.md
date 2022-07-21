@@ -13,7 +13,8 @@ C++ BASE LESSONS (examples - part1)
 
 -------------------------------------------------------------------------------------------
 
-CPP_BASE_PART1 (lessons 1..70)
+## CPP_BASE_PART1 (lessons 1..70)
+
 Google Disk:
 
 Youtube Playlist:
